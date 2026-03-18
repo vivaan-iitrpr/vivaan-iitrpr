@@ -7,6 +7,9 @@ A bit about myself, I am Vivaan Garg pursuing my <b>Computer Science Degree</b>�
 
 <br>
 <br>
+
+<h3 align="center">Competitive&nbsp;Programmer | Passionate&nbsp;Web&nbsp;Developer</h3>
+
 <br>
 <br>
 
@@ -71,20 +74,22 @@ Logo  | Project Name | Description |
 
 <div align="center">
 
-  [![GitHub followers](https://img.shields.io/github/followers/hetvi3012.svg?style=social&label=Follow)](https://github.com/vivaan-iitrpr?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/vivaan-iitrpr.svg?style=social&label=Follow)](https://github.com/vivaan-iitrpr?tab=followers)
 
 </div>
 
 <!-- <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=hetvi3012&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetvi3012&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vivaan-iitrpr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vivaan's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivaan-iitrpr&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vivaan's Top Languages" /></td>
   </tr>
 </table> -->
 
-
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=hetvi3012&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+[![](https://visitcount.itsvg.in/api?id=vivaan-iitrpr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 
@@ -92,10 +97,10 @@ Logo  | Project Name | Description |
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=vivaan-iitrpr&show_icons=true&theme=radical)
+<!--![](https://github-readme-stats.vercel.app/api?username=vivaan-iitrpr&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=vivaan-iitrpr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivaan-iitrpr&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaan-iitrpr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaan-iitrpr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ### ✍️ Random Dev Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
