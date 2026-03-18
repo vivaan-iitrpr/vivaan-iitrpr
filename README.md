@@ -2,7 +2,7 @@
 
 <h1> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30"></h1>
 
-<img width="40%" align="right" src="coding.gif" >
+<img width="40%" align="right" src="avatar.jpg" >
 A bit about myself, I am Vivaan Garg pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Data Structures algortihms, OOPS </b> but still wish to explore many fields.⚡
 
 <br>
@@ -59,7 +59,7 @@ Logo  | Project Name | Description |
 
 
 <!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=vivaan-iitrpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="vivaan-iitrpr" /></a> </p>
+<!-- <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=vivaan-iitrpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="vivaan-iitrpr" /></a> </p> -->
 
 
 <table align="center">
