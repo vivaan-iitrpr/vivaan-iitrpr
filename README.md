@@ -20,7 +20,7 @@ A bit about myself, I am Vivaan Garg pursuing my <b>Computer Science Degree</b>ð
 <a href="https://www.linkedin.com/in/vivaan-garg-07786a287/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="vivaan-garg" height="35" width="35" /></a> &nbsp;
 <a href="https://codeforces.com/profile/Vivaan_iitrpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Vivaan_iitrpr" height="40" width="40" /></a> &nbsp;
 <a href="https://leetcode.com/u/VivaanGarg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivaan_iitrpr" height="35" width="35" /></a> &nbsp;
-<a href="https://www.codechef.com/users/vivaan_iitrpr" target="blank"><img align="center" src="codechef.png" alt="vivaan_iitrpr" height="40" width="40" /></a> &nbsp;
+<!-- <a href="https://www.codechef.com/users/vivaan_iitrpr" target="blank"><img align="center" src="codechef.png" alt="vivaan_iitrpr" height="40" width="40" /></a> &nbsp; -->
 <a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="35" width="35" /></a>
 </p>
 
@@ -40,7 +40,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 
 <!-- <h1 align="center">Projects</h1>
-
+le
 Logo  | Project Name | Description | 
 :---: | :---:        |    :----    |
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | [Project Name](https://project-link.com) | Project description Project description Project description Project description Project description Project description Project description Project description Project description Project description Project description | -->
